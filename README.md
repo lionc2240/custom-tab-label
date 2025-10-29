@@ -29,7 +29,8 @@ A simple Chrome extension that allows users to set custom labels for their brows
 1.  **Navigate to a tab** you wish to rename.
 2.  **Click on the extension icon** in your Chrome toolbar.
 3.  **Enter your desired custom label** in the input field.
-4.  **Click "Set Label"** (or similar button, based on `popup.html` and `popup.js`).
+4.  **Click "Save"** (or similar button, based on `popup.html` and `popup.js`).
+5.  **Click "Restore original" and Reload the tab** if you want to Reset label.
 
 ## Files
 
@@ -44,7 +45,3 @@ A simple Chrome extension that allows users to set custom labels for their brows
 ## Contributing
 
 Feel free to fork the repository, make improvements, and submit pull requests.
-
-## License
-
-[Specify your license here, e.g., MIT, Apache 2.0, etc.]
