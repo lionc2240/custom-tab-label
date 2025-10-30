@@ -8,6 +8,10 @@ A simple Chrome extension that allows users to set custom labels for their brows
 - **Persistent Labels**: Your custom tab labels will persist even if you close and reopen your browser. (This is an assumption based on typical extension behavior, I'll verify if this is implemented later if needed).
 - **Easy to Use**: A straightforward popup interface for managing tab labels.
 
+## Demo
+
+![](https://raw.githubusercontent.com/lionc2240/custom-tab-label/master/demo_CustomTabLabel_v1.1.gif)
+
 ## Installation
 
 1.  **Clone the repository**:
