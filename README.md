@@ -10,7 +10,7 @@ A simple Chrome extension that allows users to set custom labels for their brows
 
 ## Demo
 
-![](https://raw.githubusercontent.com/lionc2240/custom-tab-label/master/demo_CustomTabLabel_v1.1.gif)
+![](https://raw.githubusercontent.com/lionc2240/custom-tab-label/master/docs/demo_CustomTabLabel_v1.1.gif)
 
 ## Installation
 
